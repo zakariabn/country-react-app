@@ -1,0 +1,29 @@
+.country-card {
+  background-color: #f1f1f1;
+  display: flex;
+  flex-direction: column;
+}
+.card-head {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid #b8b5b5;
+  border-bottom: 5px solid #cfcfcf;
+  padding: 1rem 0;
+}
+.flag {
+  align-self: center;
+  width: 250px;
+  height: 135px;
+}
+.card-body {
+  padding: 0.5rem 1rem;
+}
+.body-head {
+  margin-bottom: 1rem;
+}
+.country-name {
+  color: goldenrod;
+}
+.body-content {
+  margin-left: 1rem;
+}
